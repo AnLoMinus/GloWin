@@ -1,6 +1,6 @@
 # 🌈 GloWin — מערכת אור חי למילים
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/377672f9-d792-49d1-b615-29e07e6f4afb" />
+<img width="1536" height="1024" alt="Neon _GloWin_ in Cosmic Glow" src="https://github.com/user-attachments/assets/bad66b95-c12b-4907-b549-ffa7de601ccc" />
 
 
 <div align="center">
